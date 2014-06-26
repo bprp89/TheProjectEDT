@@ -1,5 +1,5 @@
 #include <QApplication>
-#include "MaFenetre.h"
+#include "mafenetre.h"
 #include "ressource.h"
 #include "creneau.h"
 #include <iostream>
